@@ -1,0 +1,14 @@
+Category,Item,Count
+Top IP Address,192.168.1.10,22
+Top IP Address,192.168.1.25,16
+Top IP Address,10.0.0.15,12
+Top IP Address,172.16.0.8,9
+Top IP Address,192.168.1.50,7
+Top Endpoint,/,20
+Top Endpoint,/login,18
+Top Endpoint,/products,15
+Top Endpoint,/api/users,11
+Top Endpoint,/about,7
+Error Status Code,403,5
+Error Status Code,404,9
+Error Status Code,500,4
